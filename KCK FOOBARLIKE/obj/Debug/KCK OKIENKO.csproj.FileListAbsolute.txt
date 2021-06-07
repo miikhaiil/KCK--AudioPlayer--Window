@@ -1,0 +1,58 @@
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\KCK FOOBARLIKE.exe.config
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\KCK FOOBARLIKE.exe
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\KCK FOOBARLIKE.pdb
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\CSCore.dll
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\CSCore.Visualization.dll
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\MaterialDesignColors.dll
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\CSCore.xml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\KCK OKIENKO.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\MainWindow.g.cs
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\App.g.cs
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\KCK FOOBARLIKE_MarkupCompile.cache
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\KCK FOOBARLIKE_MarkupCompile.lref
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\App.baml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\MainWindow.baml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\resources.baml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\KCK FOOBARLIKE.g.resources
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\KCK_FOOBARLIKE.Properties.Resources.resources
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\KCK OKIENKO.csproj.GenerateResource.cache
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\KCK OKIENKO.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\KCK OKIENKO.csproj.CopyComplete
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\KCK FOOBARLIKE.exe
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Debug\KCK FOOBARLIKE.pdb
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\KCK FOOBARLIKE.exe.config
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\KCK FOOBARLIKE.exe
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\KCK FOOBARLIKE.pdb
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\CSCore.dll
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\CSCore.Visualization.dll
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\MaterialDesignColors.dll
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\CSCore.xml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\KCK OKIENKO.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\MainWindow.g.cs
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\App.g.cs
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\KCK FOOBARLIKE_MarkupCompile.cache
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\KCK FOOBARLIKE_MarkupCompile.lref
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\App.baml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\MainWindow.baml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\resources.baml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\KCK FOOBARLIKE.g.resources
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\KCK_FOOBARLIKE.Properties.Resources.resources
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\KCK OKIENKO.csproj.GenerateResource.cache
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\KCK OKIENKO.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\KCK OKIENKO.csproj.CopyComplete
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\KCK FOOBARLIKE.exe
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Debug\KCK FOOBARLIKE.pdb

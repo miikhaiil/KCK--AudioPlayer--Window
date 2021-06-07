@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:KCK_OKIENKO">
+    <Style x:Key="HeaderStyle" TargetType="GridViewColumnHeader">
+        <Setter Property="Background" Value="#373737"></Setter>
+        <Setter Property="Foreground" Value="#ffcc80"/>
+        <Setter Property="IsHitTestVisible" Value="False"></Setter>
+    </Style>
+</ResourceDictionary>

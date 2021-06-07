@@ -1,0 +1,58 @@
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\KCK FOOBARLIKE.exe.config
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\KCK FOOBARLIKE.exe
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\KCK FOOBARLIKE.pdb
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\CSCore.dll
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\CSCore.Visualization.dll
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\MaterialDesignColors.dll
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\Ookii.Dialogs.Wpf.dll
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\CSCore.xml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\MaterialDesignColors.pdb
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\Ookii.Dialogs.Wpf.pdb
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\bin\Release\Ookii.Dialogs.Wpf.xml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\KCK OKIENKO.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\MainWindow.g.cs
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\App.g.cs
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\KCK FOOBARLIKE_MarkupCompile.cache
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\KCK FOOBARLIKE_MarkupCompile.lref
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\App.baml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\MainWindow.baml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\resources.baml
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\KCK FOOBARLIKE.g.resources
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\KCK_FOOBARLIKE.Properties.Resources.resources
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\KCK OKIENKO.csproj.GenerateResource.cache
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\KCK OKIENKO.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\KCK OKIENKO.csproj.CopyComplete
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\KCK FOOBARLIKE.exe
+C:\Users\Test\source\repos\KCK FOOBARLIKE\KCK FOOBARLIKE\obj\Release\KCK FOOBARLIKE.pdb
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\KCK FOOBARLIKE.exe.config
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\KCK FOOBARLIKE.exe
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\KCK FOOBARLIKE.pdb
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\CSCore.dll
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\CSCore.Visualization.dll
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\MaterialDesignColors.dll
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\Ookii.Dialogs.Wpf.dll
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\CSCore.xml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\MaterialDesignColors.pdb
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\Ookii.Dialogs.Wpf.pdb
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\bin\Release\Ookii.Dialogs.Wpf.xml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\KCK OKIENKO.csprojAssemblyReference.cache
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\MainWindow.g.cs
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\App.g.cs
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\KCK FOOBARLIKE_MarkupCompile.cache
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\KCK FOOBARLIKE_MarkupCompile.lref
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\App.baml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\MainWindow.baml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\resources.baml
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\KCK FOOBARLIKE.g.resources
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\KCK_FOOBARLIKE.Properties.Resources.resources
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\KCK OKIENKO.csproj.GenerateResource.cache
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\KCK OKIENKO.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\KCK OKIENKO.csproj.CopyComplete
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\KCK FOOBARLIKE.exe
+C:\Users\Test\source\repos\KCK OKIENKO\KCK FOOBARLIKE\obj\Release\KCK FOOBARLIKE.pdb
